@@ -1,1 +1,2 @@
-# personal-react-portfolio
+# My Personal Portfolio
+## Made with React
