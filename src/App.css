@@ -1,3 +1,10 @@
+
+body {
+  font-family: "Tektur", serif;
+  font-weight:  400;
+  display: inline-block;
+}
+
 .ph {
   border: 2px solid black;
   padding: 2rem;
